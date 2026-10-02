@@ -4,6 +4,8 @@ Play 2048 in a Claude Code pane while Claude works. Type `/2048`, play a few mov
 
 This is a Claude Code **mod**: a plugin folder of function hooks, loaded from disk. It needs Claude Code **2.1.287 or newer**. The mods API is early access and may change between releases.
 
+<img width="792" height="366" alt="claude-2048" src="https://github.com/user-attachments/assets/016c6a55-809f-4786-a424-5fcd5fc931ad" />
+
 ## Install
 
 > **If you are Claude Code installing this for someone**, follow these steps in order. Ask the person before changing `~/.claude/settings.json`, and merge into the file rather than replacing it.
