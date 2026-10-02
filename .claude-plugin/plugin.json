@@ -1,0 +1,9 @@
+{
+  "name": "wait-2048",
+  "version": "0.1.0",
+  "description": "Play 2048 in a pane while Claude works: /2048",
+  "author": {
+    "name": "Dmitrii Baranov"
+  },
+  "types": "./types/index.d.ts"
+}
